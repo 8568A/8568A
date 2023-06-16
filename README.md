@@ -9,7 +9,7 @@ We are the senior team of North Andover High School for the VEX Over Under Compe
 
 <a href="https://github.com/8568A">
     <img align="right" alt="Stats"
-         src="https://github-readme-stats.vercel.app/api/?username=8568A&count_private=true&theme=vue-dark&showicons=true">
+         src="https://github-readme-stats.vercel.app/api/?username=8568A&count_private=true&theme=onedark&showicons=true">
 
 #### Languages we're using:
 
