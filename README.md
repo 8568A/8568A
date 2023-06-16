@@ -1,5 +1,5 @@
 <!--# Hello!-->
-<img src="https://imagizer.imageshack.com/img922/446/4Vce1H.jpg" width="1000" height ="125">
+<img src="https://imagizer.imageshack.com/img923/4971/sUWBcf.jpg" width="1000" height ="125">
 
 ### Hello there! We are 8568A, the North Andover VEX team for the 2023-2024 School Year!
 
